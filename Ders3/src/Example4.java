@@ -39,6 +39,7 @@ public class Example4 {
 			System.out.println("CUMA");
 		case 6: 
 			System.out.println("CUMARTESÝ");
+			break;
 		case 7:
 			System.out.println("PAZAR");
 			break;
