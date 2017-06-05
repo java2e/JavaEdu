@@ -10,11 +10,11 @@ public class Example6 {
 			for(int j=0;j<i;j++) // sutun iþlemleri
 			{
 				
-				System.out.print(" ");
+				System.out.print("  ");
 				
 			}
 			
-			System.out.println("*");
+			System.out.println(" *");
 			
 		}
 		
